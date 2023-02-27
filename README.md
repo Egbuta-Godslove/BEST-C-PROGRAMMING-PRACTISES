@@ -4,3 +4,7 @@
 
 `practice2.c` | C progarm to check leap year |
 
+`practice3.c` | C Program to find Greatest Common Divisor of two integers |
+
+`practice4.c` | C program to reverse 5 digit number enter through the keyboard |
+ 
